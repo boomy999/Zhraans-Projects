@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **conducting a literature review on Causal Reinforcement Learning**
 
-- 👨‍💻 All of my projects are available at [My github page!](My github page!)
+- 👨‍💻 All of my projects are available at https://github.com/boomy999/Zhraans-Projects
 
 - 💬 Ask me about **Python applications for Finance**
 
