@@ -1,4 +1,4 @@
-# NVIDIA DCF Valuation Model
+# NVIDIA 3-Statement Valuation Model
 
 A fully integrated three-statement financial model and DCF valuation for NVIDIA Corporation, built in Excel with scenario analysis and an executive dashboard.
 
